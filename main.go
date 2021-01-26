@@ -6,5 +6,5 @@ import (
 
 func main() {
 	fmt.Println("hello")
-	fmt.Println(example(3))
+	fmt.Println(square(3))
 }
